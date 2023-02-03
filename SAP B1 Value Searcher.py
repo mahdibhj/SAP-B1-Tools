@@ -1,3 +1,4 @@
+#this file is a solo file and is independent from the others
 import pyodbc
 import pandas as pd
 
